@@ -10,7 +10,7 @@
 
 <a href = "https://notepad-plus-plus.org/downloads/" target = "_self">Notepad++</a> (Note: This one is more personal preference)
 
-<a href = "https://regexone.com/ target" = "_self">Grep Tutorial</a>
+<a href = "https://regexone.com/" = "_self">Grep Tutorial</a>
 
 [Another Grep Tutorial.pdf](https://github.com/NataIeigh/NCL/files/7602426/33929.pdf)
 
