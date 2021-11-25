@@ -8,10 +8,10 @@
 
 <a href = "http://www.vk2zay.net/calculators/epochTimeConverter.php" target = "_self">Epoch Time Converter</a>
 
-<a href = "https://notepad-plus-plus.org/downloads/" target = "_self">Notepad++</a>
+<a href = "https://notepad-plus-plus.org/downloads/" target = "_self">Notepad++</a> (Note: This is mostly personal preference)
 
-<a href = "https://regexone.com/" target = "_self">Grep Tutorial</a>
+<a href = "https://regexone.com/" target = "_self">Grep Tutorial</a> 
 
 [Another Grep Tutorial.pdf](https://github.com/NataIeigh/NCL/files/7602426/33929.pdf)
 
-<a href = "https://www.splunk.com/" = "_self">Splunk</a>
+<a href = "https://www.splunk.com/" target = "_self">Splunk</a>
