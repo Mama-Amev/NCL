@@ -1,5 +1,5 @@
-NCL Team Information - https://cyberskyline.com/events/ncl/info#brackets
+<a href = "https://moodle.cravencc.edu/pluginfile.php/1020325/mod_resource/content/1/CryptoKaits%20NCL%20Coaching%20Guide-v1.0.pdf" target = "_self">Outline of NCL Competition</a><br><br>
 
 
-<p>Click following link</p>
-      <a href = "https://www.tutorialspoint.com" target = "_self">Tutorials Point</a>
+ <a href = "https://cyberskyline.com/events/ncl/info#brackets" target = "_self">NCL Team Information</a>
+ 
