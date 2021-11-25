@@ -8,7 +8,7 @@
 
 <a href = "http://www.vk2zay.net/calculators/epochTimeConverter.php" target = "_self">Epoch Time Converter</a>
 
-<a href = "https://notepad-plus-plus.org/downloads/" target = "_self">Notepad++</a> (Note: This one is more personal preference)
+<a href = "https://notepad-plus-plus.org/downloads/" target = "_self">Notepad++</a>
 
 <a href = "https://regexone.com/" = "_self">Grep Tutorial</a>
 
