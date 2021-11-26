@@ -1,4 +1,4 @@
-# Software
+# Software/Sites
 
 <a href = "https://www.sqlprostudio.com" target = "_self">SQL File Viewer for MacOS</a>
 
