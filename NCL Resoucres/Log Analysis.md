@@ -4,7 +4,7 @@
 
 <a href = "https://inloop.github.io/sqlite-viewer/" target = "_self">SQLite View GUI</a>
 
-<a href = "http://www.vk2zay.net/calculators/epochTimeConverter.php" target = "_self">Epoch Time Converter</a> (Cannot be accessed with a VPN on)
+<a href = "http://www.vk2zay.net/calculators/epochTimeConverter.php" target = "_self">Epoch Time Converter</a> (Site is wonchy, if you're unable to access it, refresh the browser)
 
 <a href = "https://notepad-plus-plus.org/downloads/" target = "_self">Notepad++</a> (Note: This is mostly personal preference)
 
