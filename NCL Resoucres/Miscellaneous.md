@@ -15,3 +15,5 @@
 <a href = "https://www.qbittorrent.org/" target = "_self">qBittorrent</a> (If you choose to download ParrotOS via torrenting)
 
 <a href = "https://www.udemy.com/course/ethical-hacker/" target = "_self">Free Kali Linux Training</a>
+
+<a href = "https://www.oracle.com/java/technologies/downloads/#java8" target = "_self">JDE for OWASP ZAP</a>
