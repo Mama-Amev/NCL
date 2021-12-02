@@ -34,8 +34,6 @@
 
 <a href = "http://www.gotfuturama.com/Interactive/AlienCodec/" target = "_self">Alien Codec</a>
 
-<a href = "http://www.gotfuturama.com/Interactive/AlienCodec/" target = "_self">Alien Codec</a>
-
 <a href = "https://www.asciitohex.com/" target = "_self">ASCII to Hex</a>
 
 <a href = "https://gist.github.com/oxycoder/f79f14520d2ad34bf2cb" target = "_self">Oxycode</a>
