@@ -10,7 +10,7 @@
 
 <a href = "https://online-barcode-reader.inliteresearch.com/" target = "_self">Barcode Reader</a>
 
-<a href = "https://www.duplichecker.com/reverse-image-search.php" target = "_self">Duplichecker</a>
+<a href = "https://www.duplichecker.com/reverse-image-search.php" target = "_self">Duplichecker (Checks through multiple search engines at once)</a>
 
 # Guides
 
