@@ -10,6 +10,8 @@
 
 <a href = "https://online-barcode-reader.inliteresearch.com/" target = "_self">Barcode Reader</a>
 
+<a href = "https://www.duplichecker.com/reverse-image-search.php" target = "_self">Duplichecker</a>
+
 # Guides
 
 <a href = "https://en.wikipedia.org/wiki/List_of_DNS_record_types" target = "_self">DNS Record Questions</a>
