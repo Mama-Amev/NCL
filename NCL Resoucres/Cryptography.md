@@ -38,6 +38,8 @@
 
 <a href = "https://gist.github.com/oxycoder/f79f14520d2ad34bf2cb" target = "_self">Oxycode</a>
 
+<a href = "https://v2.cryptii.com/octal/text" target = "_self">Octal Decipher</a>
+
 <a href = "https://www.boxentriq.com/code-breaking/cipher-identifier#decimal-code" target = "_self">Decimal Code/Cipher ID</a>
 
 # Stenography
