@@ -61,3 +61,7 @@
 <a href = "https://comnuan.com/cmnn02/cmnn02006/cmnn02006.php" target = "_self">Carmichael Function Calculator</a>
 
 <a href = "https://planetcalc.com/3311/ " target = "_self">Modular Multiplicative Inverse Calculator</a>
+
+# Misc
+
+<a href = "https://www.boxentriq.com/code-breaking/cipher-identifier" target = "_self">Cipher Detector</a>
